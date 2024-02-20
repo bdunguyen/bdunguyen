@@ -3,9 +3,9 @@
 ### Hi there!
 I'm Britney, I'm primarily interested in **full-stack development** and an incoming software development engineering intern @Amazon.
 
-My end goal has always been to help people. Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue. I am interested in computer graphics, artificial intelligence, and keeping up with recent scientific developments.
+Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue.
 
-Outside of school and work, I enjoy creating art, reading, and going to the gym.
+I am interested in developing my skills in computer graphics, artificial intelligence, and keeping up with recent scientific developments. Outside of school and work, I enjoy creating art, reading, and going to the gym.
 <!--
 ### this week I spent my time on
 ![bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
