@@ -4,18 +4,7 @@ I'm Britney, I'm an incoming Software Development Engineering Intern @Amazon.
 Previously, I served as President of the Women in Computer Science Club at UC Davis. I am currently a Computer Science Instructor II for Juni Learning and a Student Researcher at UC Davis Health. I am interested in 
 
 **this week I spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   11 hrs 15 mins  ████████████████▓░░░░░░░░   66.38 %
-JavaScript   4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-```
-
-<!--END_SECTION:waka-->
-
+![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
 <!--
 **bdunguyen/bdunguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
