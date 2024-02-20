@@ -1,14 +1,12 @@
-### hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-I'm Britney, I'm an incoming Software Development Engineering Intern @Amazon.
+### Hi there!  height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />I'm Britney, I'm primarily interested in **full-stack development** and an incoming software development engineering intern @Amazon.
 
-My end goal has always been to help people. Previously, I served as President of the Women in Computer Science Club at UC Davis to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25"My end goal has always been to help people. Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue. I am interested in computer graphics, artificial intelligence, and keeping up with recent scientific developments.
 
-I am interested in computer graphics, artificial intelligence, and keeping up with recent scientific developments.
-
-### this week I spent my time on
-![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
+Outside of school and work, I enjoy creating art, reading, and going to the gym.
 <!--
-**bdunguyen/bdunguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### this week I spent my time on
+![bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
 
 Here are some ideas to get you started:
 
