@@ -1,9 +1,11 @@
 ### hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 I'm Britney, I'm an incoming Software Development Engineering Intern @Amazon.
 
-Previously, I served as President of the Women in Computer Science Club at UC Davis. I am currently a Computer Science Instructor II for Juni Learning and a Student Researcher at UC Davis Health. I am interested in 
+My end goal has always been to help people. Previously, I served as President of the Women in Computer Science Club at UC Davis to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue. 
 
-**this week I spent my time on:**
+I am interested in computer graphics, artificial intelligence, and keeping up with recent scientific developments.
+
+### this week I spent my time on
 ![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
 <!--
 **bdunguyen/bdunguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
