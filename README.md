@@ -1,11 +1,27 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="50" height="50" />
 
 ### Hi there!
 I'm Britney, I'm primarily interested in **full-stack development** and an incoming software development engineering intern @Amazon.
 
 Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue.
 
+some of my proficient+ skills:
+* python
+* c/c#/c++
+* vb.net
+* django
+* tensorflow/keras
+
 I am interested in developing my skills in computer graphics, artificial intelligence, and keeping up with recent scientific developments. Outside of school and work, I enjoy creating art, reading, and going to the gym.
+
+Let's connect!
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 ### this week I spent my time on
 ![bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
