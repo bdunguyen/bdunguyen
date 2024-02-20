@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
+
 ### Hi there!
 I'm Britney, I'm primarily interested in **full-stack development** and an incoming software development engineering intern @Amazon.
 
