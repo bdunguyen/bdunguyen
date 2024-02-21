@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="50" height="50" />
 
 ### Hi there!
-I'm Britney, I'm primarily interested in **full-stack development** and an incoming software development engineering intern @Amazon.
+I'm Britney, I'm primarily interested in **full-stack development** and **computer graphics** an incoming software development engineering intern @Amazon.
 
 Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to detect breast cancer tissue.
 
