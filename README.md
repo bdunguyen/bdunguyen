@@ -6,15 +6,15 @@ I'm Britney, I'm primarily interested in **full-stack development** and an incom
 Previously, I served as President of the Women in Computer Science Club at UC Davis to cultivate a community to empower women and gender minorities in tech. I am currently a Computer Science Instructor II for Juni Learning to guide brilliant kids into programming. Additionally I'm a Student Researcher at UC Davis Health where I'm programming a device to scan breast cancer tissue.
 
 some of my proficient+ skills:
-* python
 * c/c#/c++
+* python
 * vb.net
 * django
 * tensorflow/keras
 
 I am interested in developing my skills in computer graphics, artificial intelligence, and keeping up with recent scientific developments. Outside of school and work, I enjoy creating art, reading, and going to the gym.
 
-Let's connect!
+**Let's connect!**
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/britneydunguyen">
