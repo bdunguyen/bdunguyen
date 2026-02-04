@@ -2,7 +2,7 @@
 
 💡 Software Engineer | Researcher | Student
 
-🎓 Studying Computer Science @ UC Davis
+🎓 Studying Computational Statistics @ UC Davis
 
 # 👋 Hi there! I'm Britney.
 
