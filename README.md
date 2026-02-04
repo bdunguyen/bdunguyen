@@ -45,16 +45,6 @@ I am interested in developing my skills in computer graphics, artificial intelli
 
 📱 Frontend: React, Bootstrap
 
-# 🚀 Let's Connect!
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/britneydunguyen">
-    <img src="https://camo.githubusercontent.com/3364cf119f9d35458fb109b16e05608f2efa60431a35cef5d7b303b3655fa2a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333045373641382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge"/>
-  </a>
-    <a href="[https://www.linkedin.com/in/britneydunguyen](https://medium.com/@brii.nguyen)">
-    <img src="https://camo.githubusercontent.com/90bba63756c0906b70d7b264a1b6e95b6ad37bd24a72d07b5c49f11f2395b617/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium Badge"/>
-  </a>
-</div>
 <!--
 ### this week I spent my time on
 ![bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdunguyen&show_icons=true&theme=dracula)
