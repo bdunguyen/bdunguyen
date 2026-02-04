@@ -20,10 +20,6 @@ I am interested in developing my skills in computer graphics, artificial intelli
 
 🔧 Tech Stack: Python, TensorFlow, OpenCV, NumPy
 
-📌 GitHub Repo | 📝 Project Details
-
-
-
 ## 🌍 FluentDocs – AI-Powered Document Translator
 
 🏆 HackDavis 2024 Finalist (Intel Award – 4th place out of 800)
@@ -32,23 +28,11 @@ I am interested in developing my skills in computer graphics, artificial intelli
 
 🔧 Tech Stack: Flask, React, Intel Xeon VM
 
-📌 GitHub Repo
-
 ## 🔗 ResChat – Decentralized Chat App
 
 💬 Integrated frontend with a ResilientDB-powered backend for secure communication.
 
 🔧 Tech Stack: JavaScript, HTML, CSS, Blockchain
-
-📝 Project Details
-
-## 🏡 Backend Chore Manager
-
-✅ Designed 7 RESTful API endpoints for user & chore list management.
-
-🔧 Tech Stack: Python, Django, PostgreSQL, Docker
-
-📌 GitHub Repo
 
 # 🛠 Skills & Technologies
 🚀 Languages: Python, C++, Java, SQL, TypeScript
